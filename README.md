@@ -1,5 +1,6 @@
 # Deep-Learning-Book
 Índice do Livro Deep Learning Book do site https://deeplearningbook.com.br/
+Github com exemplos site https://github.com/dsacademybr/DeepLearningBook
 
 * [Capítulo 1] – Deep Learning e a Tempestade Perfeita
 * [Capítulo 2] – Uma Breve História das Redes Neurais Artificiais
@@ -78,6 +79,7 @@
 * [Capítulo 75] – Inteligência Artificial Para Jogar Blackjack – Parte 5
 * [Capítulo 76] – O Que é BERT (Bidirectional Encoder Representations from Transformers)?
 * [Capítulo 77] – Modelo BERT Para Processamento de Linguagem Natural
+* [Capítulo 78] – Modelo BERT – Previsão da Próxima Frase
 
 [Capítulo 1]: <https://deeplearningbook.com.br/deep-learning-a-tempestade-perfeita/>
 [Capítulo 2]: <https://deeplearningbook.com.br/uma-breve-historia-das-redes-neurais-artificiais/>
@@ -156,3 +158,4 @@
 [Capítulo 75]: <https://deeplearningbook.com.br/capitulo-75-inteligencia-artificial-para-jogar-blackjack-parte-5/>
 [Capítulo 76]: <https://deeplearningbook.com.br/o-que-e-bert-bidirectional-encoder-representations-from-transformers/>
 [Capítulo 77]: <https://deeplearningbook.com.br/modelo-bert-para-processamento-de-linguagem-natural/>
+[Capítulo 78]: <https://deeplearningbook.com.br/modelo-bert-previsao-da-proxima-frase/>
