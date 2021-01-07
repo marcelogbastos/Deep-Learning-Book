@@ -1,6 +1,6 @@
 # Deep-Learning-Book
-Índice do Livro Deep Learning Book do site https://deeplearningbook.com.br/
-Github com exemplos site https://github.com/dsacademybr/DeepLearningBook
+ Índice do Livro Deep Learning Book do site https://deeplearningbook.com.br/ \
+ Github com exemplos site https://github.com/dsacademybr/DeepLearningBook
 
 * [Capítulo 1] – Deep Learning e a Tempestade Perfeita
 * [Capítulo 2] – Uma Breve História das Redes Neurais Artificiais
