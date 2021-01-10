@@ -80,6 +80,7 @@
 * [Capítulo 76] – O Que é BERT (Bidirectional Encoder Representations from Transformers)?
 * [Capítulo 77] – Modelo BERT Para Processamento de Linguagem Natural
 * [Capítulo 78] – Modelo BERT – Previsão da Próxima Frase
+* [Capítulo 79] – Conhecendo o Modelo GPT-3 (Generative Pre-trained Transformer)
 
 [Capítulo 1]: <https://deeplearningbook.com.br/deep-learning-a-tempestade-perfeita/>
 [Capítulo 2]: <https://deeplearningbook.com.br/uma-breve-historia-das-redes-neurais-artificiais/>
@@ -159,3 +160,4 @@
 [Capítulo 76]: <https://deeplearningbook.com.br/o-que-e-bert-bidirectional-encoder-representations-from-transformers/>
 [Capítulo 77]: <https://deeplearningbook.com.br/modelo-bert-para-processamento-de-linguagem-natural/>
 [Capítulo 78]: <https://deeplearningbook.com.br/modelo-bert-previsao-da-proxima-frase/>
+[Capítulo 79]: <https://deeplearningbook.com.br/conhecendo-o-modelo-gpt-3-generative-pre-trained-transformer/>
