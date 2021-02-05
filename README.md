@@ -1,6 +1,6 @@
 # Deep-Learning-Book
- Índice do Livro Deep Learning Book do site https://deeplearningbook.com.br/ \
- Github com exemplos site https://github.com/dsacademybr/DeepLearningBook
+ Índice do Livro Deep Learning Book https://deeplearningbook.com.br/ \
+ Github com exemplos https://github.com/dsacademybr/DeepLearningBook
  
 ![Deep-Learning-Book](https://i2.wp.com/deeplearningbook.com.br/wp-content/uploads/2018/01/deep-learning-book.jpg)
 
