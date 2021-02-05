@@ -84,6 +84,8 @@
 * [Capítulo 78] – Modelo BERT – Previsão da Próxima Frase
 * [Capítulo 79] – Conhecendo o Modelo GPT-3 (Generative Pre-trained Transformer)
 * [Capítulo 80] – Melhorando a Compreensão da Linguagem Por Meio do Pré-treinamento Generativo (GPT-1)
+* [Capítulo 81] – Modelos de Linguagem Como Tarefas Não Supervisionadas (GPT-2)
+* [Capítulo 82] – GPT-3 – Características e Limitações
 
 [Capítulo 1]: <https://deeplearningbook.com.br/deep-learning-a-tempestade-perfeita/>
 [Capítulo 2]: <https://deeplearningbook.com.br/uma-breve-historia-das-redes-neurais-artificiais/>
@@ -165,3 +167,5 @@
 [Capítulo 78]: <https://deeplearningbook.com.br/modelo-bert-previsao-da-proxima-frase/>
 [Capítulo 79]: <https://deeplearningbook.com.br/conhecendo-o-modelo-gpt-3-generative-pre-trained-transformer/>
 [Capítulo 80]: <http://deeplearningbook.com.br/melhorando-a-compreensao-da-linguagem-por-meio-do-pre-treinamento-generativo-gpt-1/>
+[Capítulo 81]: <http://deeplearningbook.com.br/modelos-de-linguagem-como-tarefas-nao-supervisionadas-gpt-2/>
+[Capítulo 82]: <http://deeplearningbook.com.br/gpt-3-caracteristicas-e-limitacoes/>
