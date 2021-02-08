@@ -86,6 +86,7 @@
 * [Capítulo 80] – Melhorando a Compreensão da Linguagem Por Meio do Pré-treinamento Generativo (GPT-1)
 * [Capítulo 81] – Modelos de Linguagem Como Tarefas Não Supervisionadas (GPT-2)
 * [Capítulo 82] – GPT-3 – Características e Limitações
+* [Capítulo 83] – Liquid Neural Network – Rede Neural Líquida
 
 [Capítulo 1]: <https://deeplearningbook.com.br/deep-learning-a-tempestade-perfeita/>
 [Capítulo 2]: <https://deeplearningbook.com.br/uma-breve-historia-das-redes-neurais-artificiais/>
@@ -169,3 +170,4 @@
 [Capítulo 80]: <http://deeplearningbook.com.br/melhorando-a-compreensao-da-linguagem-por-meio-do-pre-treinamento-generativo-gpt-1/>
 [Capítulo 81]: <http://deeplearningbook.com.br/modelos-de-linguagem-como-tarefas-nao-supervisionadas-gpt-2/>
 [Capítulo 82]: <http://deeplearningbook.com.br/gpt-3-caracteristicas-e-limitacoes/>
+[Capítulo 83]: <http://deeplearningbook.com.br/liquid-neural-network-rede-neural-liquida/>
