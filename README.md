@@ -172,4 +172,4 @@
 [Capítulo 81]: <http://deeplearningbook.com.br/modelos-de-linguagem-como-tarefas-nao-supervisionadas-gpt-2/>
 [Capítulo 82]: <http://deeplearningbook.com.br/gpt-3-caracteristicas-e-limitacoes/>
 [Capítulo 83]: <http://deeplearningbook.com.br/liquid-neural-network-rede-neural-liquida/>
-[Capítulo 83]: <http://deeplearningbook.com.br/clip-contrastive-language-image-pre-training-conectando-texto-e-imagens/>
+[Capítulo 84]: <http://deeplearningbook.com.br/clip-contrastive-language-image-pre-training-conectando-texto-e-imagens/>
