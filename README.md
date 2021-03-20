@@ -87,6 +87,7 @@
 * [Capítulo 81] – Modelos de Linguagem Como Tarefas Não Supervisionadas (GPT-2)
 * [Capítulo 82] – GPT-3 – Características e Limitações
 * [Capítulo 83] – Liquid Neural Network – Rede Neural Líquida
+* [Capítulo 84] – CLIP (Contrastive Language Image Pre-training): Conectando Texto e Imagens
 
 [Capítulo 1]: <https://deeplearningbook.com.br/deep-learning-a-tempestade-perfeita/>
 [Capítulo 2]: <https://deeplearningbook.com.br/uma-breve-historia-das-redes-neurais-artificiais/>
@@ -171,3 +172,4 @@
 [Capítulo 81]: <http://deeplearningbook.com.br/modelos-de-linguagem-como-tarefas-nao-supervisionadas-gpt-2/>
 [Capítulo 82]: <http://deeplearningbook.com.br/gpt-3-caracteristicas-e-limitacoes/>
 [Capítulo 83]: <http://deeplearningbook.com.br/liquid-neural-network-rede-neural-liquida/>
+[Capítulo 83]: <http://deeplearningbook.com.br/clip-contrastive-language-image-pre-training-conectando-texto-e-imagens/>
