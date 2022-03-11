@@ -92,6 +92,8 @@
 * [Capítulo 86] – Como Funcionam os Transformadores em Processamento de Linguagem Natural – Parte 1
 * [Capítulo 87] – Como Funcionam os Transformadores em Processamento de Linguagem Natural – Parte 2
 * [Capítulo 88] – Como Funcionam os Transformadores em Processamento de Linguagem Natural – Parte 3
+* [Capítulo 89] – Como Funcionam os Transformadores em Processamento de Linguagem Natural – Parte 4
+* [Capítulo 90] – Como Funcionam os Transformadores em Processamento de Linguagem Natural – Parte 5
 
 [Capítulo 1]: <https://deeplearningbook.com.br/deep-learning-a-tempestade-perfeita/>
 [Capítulo 2]: <https://deeplearningbook.com.br/uma-breve-historia-das-redes-neurais-artificiais/>
@@ -181,3 +183,5 @@
 [Capítulo 86]: <https://www.deeplearningbook.com.br/como-funcionam-os-transformadores-em-processamento-de-linguagem-natural-parte-1/>
 [Capítulo 87]: <https://www.deeplearningbook.com.br/como-funcionam-os-transformadores-em-processamento-de-linguagem-natural-parte-2/>
 [Capítulo 88]: <https://www.deeplearningbook.com.br/como-funcionam-os-transformadores-em-processamento-de-linguagem-natural-parte-3/>
+[Capítulo 89]: <https://www.deeplearningbook.com.br/como-funcionam-os-transformadores-em-processamento-de-linguagem-natural-parte-4/>
+[Capítulo 90]: <https://www.deeplearningbook.com.br/como-funcionam-os-transformadores-em-processamento-de-linguagem-natural-parte-5/>
